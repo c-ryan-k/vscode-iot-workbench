@@ -1,5 +1,8 @@
 # Change Log
 
+## Version 0.16.0 is the final version of this extension.
+Support for this extension will remain through November 2022.
+
 All notable changes to the "vscode-iot-workbench" extension will be documented in this file.
 
 ## Version 0.16.0

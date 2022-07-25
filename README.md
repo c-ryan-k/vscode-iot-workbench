@@ -3,11 +3,12 @@
 [![Gitter](https://img.shields.io/badge/chat-on%20gitter-blue.svg)](https://gitter.im/Microsoft/vscode-iot-workbench)
 [![Build Status](https://dev.azure.com/mseng/VSIoT/_apis/build/status/vscode-iot-workbench-github?branchName=master)](https://dev.azure.com/mseng/VSIoT/_build/latest?definitionId=9768&branchName=master)
 
-***[Azure IoT Device Workbench extension](https://aka.ms/iot-workbench) is now part of [Azure IoT Tools](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools) extension pack. We highly recommend installing [Azure IoT Tools](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-tools) extension pack, which makes it easy to discover and interact with Azure IoT Hub that power your IoT Edge and device applications.** This extension pack can help you:*
+## **End of Life / Support Notice**
+This extension will no longer be supported after November 2022.
+The repository has been archived and is read-only. Currently installed extensions will not be affected, but no new versions will be made available in the marketplace.
+Furthermore, after November 2022 users will no longer be able to install the extension from the marketplace.
 
-- *Develop and connect your [Azure IoT Applications](https://azure.microsoft.com/en-us/overview/iot/) to Azure. With this extension, you can interact with an Azure IoT Hub, manage connected devices, and enable distributed tracing for your Azure IoT applications.*
-- *Develop and debug [Certifies Azure IoT Devices](https://catalog.azureiotsolutions.com/alldevices) (including [MXChip IoT DevKit](https://aka.ms/iot-devkit), [ESP32](https://catalog.azureiotsolutions.com/details?title=ESP32_DevKitC&source=all-devices-page), [Raspberry Pi](https://www.adafruit.com/category/288)) to Azure. This extension pack makes it easy to code, build, deploy and debug your IoT applications with popular IoT development boards.*
-- *Develop and deploy artificial intelligence and your custom logic to [Azure IoT Edge](https://azure.microsoft.com/en-us/services/iot-edge/). This extension pack makes it easy to code, build, deploy, and debug your IoT Edge applications.*
+You may still be able to download and install previous extension releases from the [releases page](https://github.com/microsoft/vscode-iot-workbench/releases) of this repository.
 
 ## Overview
 
